@@ -8,6 +8,6 @@ Take a deep dive into the latest emerging advanced threats analyzed by Binarly R
 
 ## [xz-backdoor](./xz-backdoor/)
 
-Contains the results of the Binarly REsearch deep dive into the xz backdoor (originally disclosed in [1])
+Contains the results of our deep dive into the xz backdoor (originally disclosed in [1])
 
 [1]: https://www.openwall.com/lists/oss-security/2024/03/29/4
